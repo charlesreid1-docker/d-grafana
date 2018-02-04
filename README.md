@@ -1,6 +1,5 @@
 # d-grafana
 
-<<<<<<< HEAD
 This repo contains files for creating a Grafana Docker container.
 
 ## Make the docker image
@@ -35,7 +34,3 @@ $ docker run \
     ...
 ```
 
-
-=======
-Scripts for setting up a Docker image for Grafana.
->>>>>>> 432e9deea43b06d4dd2075db522014b1e57c3893
