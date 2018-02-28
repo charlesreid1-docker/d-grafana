@@ -2,7 +2,7 @@
 
 This repo contains files for creating a Grafana Docker container.
 
-## Make the docker image
+## Build and run the docker image
 
 ```
 ./build_grafana.sh
