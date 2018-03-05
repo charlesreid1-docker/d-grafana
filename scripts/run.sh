@@ -1,4 +1,7 @@
 #!/bin/bash -e
+#
+# This script comes from the grafana-docker repo:
+# https://github.com/grafana/grafana-docker
 
 : "${GF_PATHS_CONFIG:=/etc/grafana/grafana.ini}"
 : "${GF_PATHS_DATA:=/var/lib/grafana}"
